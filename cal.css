@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap");
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+}
+h1 {
+  color: antiquewhite;
+}
+.button {
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  border-radius: 30%;
+}
+.bt {
+  background-color: lightblue;
+}
+.sz {
+  border-radius: 30%;
+}
+.lg {
+  background-color: lightgreen;
+  font-size: 120%;
+  border-color: lightgreen;
+}
+.bg {
+  background-color: rgb(235, 41, 41);
+  font-size: 100%;
+  font-weight: bold;
+  color: white;
+  border-radius: 9%;
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border-color: rgb(235, 41, 41);
+}
+.aq {
+  font-size: 150%;
+  font-weight: bold;
+  color: black;
+  border-color: antiquewhite;
+}
+.eq {
+  width: 132px;
+  border-radius: 25%;
+  background-color: green;
+  border-color: green;
+  font-size: 100%;
+  font-weight: bold;
+  color: white;
+}
+.bh {
+  background-color: pink;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.row {
+  margin: 8px 0;
+}
+.row input {
+  width: 291px;
+  font-size: 30px;
+  margin: 0;
+  padding: 15px 0px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: antiquewhite;
+}
+.d{
+   background-color: greenyellow;
+   
+}
